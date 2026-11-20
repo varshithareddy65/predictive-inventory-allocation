@@ -1,0 +1,13 @@
+duckdb
+pyarrow
+pandas
+numpy
+scikit-learn
+lightgbm
+matplotlib
+seaborn
+joblib
+jupyter
+streamlit
+plotly
+statsmodels

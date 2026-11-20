@@ -1,0 +1,9 @@
+{
+    "model": "LightGBM",
+    "training_rows": 180,
+    "testing_rows": 160,
+    "MAE": 49.56823045741059,
+    "RMSE": 65.07909572054743,
+    "WAPE_percent": 32.57183815838719,
+    "total_actual": 24349.0
+}

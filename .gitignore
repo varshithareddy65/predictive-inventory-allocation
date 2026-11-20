@@ -1,0 +1,26 @@
+
+# Dataset files
+datasets/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Model artifacts
+models/*.txt
+models/*.pkl
+models/*.joblib
+
+# Logs
+*.log
